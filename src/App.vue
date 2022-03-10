@@ -1,5 +1,5 @@
 <template>
-  <div v-if="data">
+  <div class="bambang" v-if="data">
     <div
       v-bind:class="[
         'bg-cover fixed top-0 right-0 bottom-0 left-0 font-sans antialiased leading-normal',
